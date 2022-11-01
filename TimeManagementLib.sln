@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeManagementLib", "TimeManagementLib.csproj", "{C1BD0927-ED20-4F98-96C2-9FD5B9392604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1BD0927-ED20-4F98-96C2-9FD5B9392604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BD0927-ED20-4F98-96C2-9FD5B9392604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BD0927-ED20-4F98-96C2-9FD5B9392604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BD0927-ED20-4F98-96C2-9FD5B9392604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {132EE9B7-0880-473B-9638-B32964A05183}
+	EndGlobalSection
+EndGlobal
