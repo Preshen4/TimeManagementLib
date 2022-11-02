@@ -1,5 +1,9 @@
 ﻿namespace TimeManagementLib.Singleton
 {
+    // Code Attribution
+    // How to make a singleton class
+    // Link : https://csharpindepth.com/articles/singleton
+    // Author : NA
     public sealed class UserDetails
     {
         private static UserDetails instance = null;
